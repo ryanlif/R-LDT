@@ -24,9 +24,9 @@ ldtmse_m <- c()
 ############################# Note #################################
 # Due to the randomness of the experiments, the results can be be 
 # changed when re-running. So here, to simplify reproducing the 
-# results, we fix the seed to 1. 
+# results, we fix the seed to 2. 
 ####################################################################
-set.seed(1)  # 
+set.seed(2)  # 
 ### Data generation
 for (k in 1:niter){
   ds0 <- simdata(d, nsample, rate)
