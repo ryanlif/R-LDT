@@ -15,4 +15,17 @@ For simulation studies, please run ```experiment.R``` and see the output. For th
 ## Citation
 Please consider citing our paper if you find the code useful for your work.
 
+```
+@article{lin2023rldt,
+  title={Modeling User Choice Behavior under Data Corruption: Robust Learning of the Latent Decision Threshold Model},
+  author={Park, Chiwoo and Borth, David J and Wilson, Nicholas S and Hunter, Chad N},
+  journal={IISE Transactions},
+  volume={},
+  number={},
+  pages={},
+  year={2023},
+  publisher={Taylor \& Francis}
+}
+```
+
 
