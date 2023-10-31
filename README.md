@@ -18,7 +18,7 @@ Please consider citing our paper if you find the code useful for your work.
 ```
 @article{lin2023rldt,
   title={Modeling User Choice Behavior under Data Corruption: Robust Learning of the Latent Decision Threshold Model},
-  author={Park, Chiwoo and Borth, David J and Wilson, Nicholas S and Hunter, Chad N},
+  author={Lin, Feng and Qian, Xiaoning and Mortazavi, Bobak and Wang, Zhangyang and Huang, Shuai and Chen, Cynthia},
   journal={IISE Transactions},
   volume={},
   number={},
