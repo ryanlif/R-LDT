@@ -20,10 +20,7 @@ Please consider citing our paper if you find the code useful for your work.
   title={Modeling User Choice Behavior under Data Corruption: Robust Learning of the Latent Decision Threshold Model},
   author={Lin, Feng and Qian, Xiaoning and Mortazavi, Bobak and Wang, Zhangyang and Huang, Shuai and Chen, Cynthia},
   journal={IISE Transactions},
-  volume={},
-  number={},
-  pages={},
-  year={2023},
+  year= "\noop{2023}forthcoming",
   publisher={Taylor \& Francis}
 }
 ```
