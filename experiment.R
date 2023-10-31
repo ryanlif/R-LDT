@@ -24,7 +24,7 @@ ldtmse_m <- c()
 ############################# Note #################################
 # Due to the randomness of the experiments, the results can be be 
 # changed when re-running. So here, to simplify reproducing the 
-# results, we fix the seed to 2. 
+# results, we fix the seed. 
 ####################################################################
 set.seed(2)  # 
 ### Data generation
